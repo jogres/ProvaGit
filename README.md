@@ -1,2 +1,2 @@
-# ProvaGit
-Repositório para ser utilizado na prova de Git
+﻿# ProvaGit
+Arquivo para ser utilizado na prova de Git
